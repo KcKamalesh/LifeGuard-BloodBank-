@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'popins', sans-serif;
+  cursor: pointer
+}
+body{
+  background-image: url('colour.jpg');
+}
+h1{
+  font-family: initial;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  text-shadow: 3px 3px 3px rgb(88, 83, 83);
+  letter-spacing: 2px;
+  margin-top: -5%;
+  opacity: .9;
+}
+thead{
+  background-color: rgb(236, 31, 31);
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0.30px;
+  color: #ffffff;
+  opacity: 1;
+  padding: 13px;
+  vertical-align: top;
+  text-align: center;
+  border: 1px solid #ffffff85;
+}
+tbody{
+  background-color: #3c3f44;
+  font-size: 15px;
+  font-weight: normal;
+  letter-spacing: 0.30px;
+  color: #f1f1f1;
+  opacity: 1;
+  padding: 8px;
+  text-align: center;
+  border: 1px solid #ece5e585;
+}
